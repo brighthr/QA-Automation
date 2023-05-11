@@ -2,7 +2,7 @@
 
 We have a technical task that comprises of two steps:
 
-Step 1: Kindly visit https://app.brighthr.com/lite and manually create a free account, and complete the registration process.
+Step 1: Kindly visit https://sandbox-app.brighthr.com/lite and manually create a free account, and complete the registration process.
 
 Step 2: Using the Cypress framework, you need to log in to the created account and write automated tests for the following scenarios:
 
