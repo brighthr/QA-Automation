@@ -12,7 +12,7 @@ Step 2: Using the Playwright framework, you need to log in to the created accoun
 
     3. Navigate to the employee tab and verify that both employees are displayed.
 
-    4. Automate this build so tests can run in the CI setup of your choice.
+    4. Integrate this build so tests can run in the CI setup of your choice.
 
 Please submit your project by uploading it to your git repository and provide us with a link to the project. 
 
