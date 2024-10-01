@@ -4,6 +4,8 @@ We have a technical task that comprises two steps:
 
 Step 1: Could you visit https://sandbox-app.brighthr.com/lite manually create a free account, and complete the registration process?
 
+If the registration email doesn't arrive use the following details instead Login leu7edsq@getnada.com Password TestAccount123
+
 Step 2: Using the Playwright framework, you need to log in to the created account and write automated tests for the following scenarios:
 
     1. Navigate to the employee tab on the left-hand side of the panel and add an employee by filling in all the fields, including optional ones.
