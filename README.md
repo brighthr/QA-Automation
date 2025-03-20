@@ -4,7 +4,7 @@ We have a technical task that comprises two steps:
 
 Step 1: Could you visit https://sandbox-app.brighthr.com/lite manually create a free account, and complete the registration process?
 
-If the registration email doesn't arrive use the following details instead Login qaTechTask100@grr.la Password A1234567890-
+If the registration email doesn't arrive use the following details instead Login qaAutomationTechTask@grr.la Password A1234567890-
 
 Step 2: Using the Playwright or Cypress framework, you need to log in to the created account and write automated tests for the following scenarios:
 
